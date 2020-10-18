@@ -14,8 +14,14 @@ namespace LibraryOffice.API.Controllers {
     }
 
     [HttpGet]
-    public ICollection<T> GetAllData () {
+    public ICollection<T> find () {
       return _baseService.find ();
+    }
+
+    [HttpGet]
+    [Route ("{id}")]
+    public T findById (IdType id) {
+      return _baseService.findById (id);
     }
   }
 }
