@@ -45,3 +45,8 @@ D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\LibraryOffice.
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\LibraryOffice.Repository.pdb
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
 D:\Social\LibraryOffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.csproj.CopyComplete
+D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Social\LibraryOffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.MvcApplicationPartsAssemblyInfo.cs

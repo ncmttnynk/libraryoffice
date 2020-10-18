@@ -1,18 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using GenericRestService.ControllerFactory;
 using LibraryOffice.API.ControllerFactory;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace LibraryOffice.API {
     public class Startup {
@@ -36,6 +29,8 @@ namespace LibraryOffice.API {
                 c.FeatureProviders.Add (new GenericRestControllerFeatureProvider ());
             });
 
+            services.AddSwaggerGen ();
+
             services.RegisterLibraryOfficeRepos ();
             services.RegisterLibraryOfficeServices ();
             services.AddControllers ();
@@ -52,6 +47,13 @@ namespace LibraryOffice.API {
             app.UseRouting ();
 
             app.UseAuthorization ();
+
+            app.UseSwagger ();
+
+            app.UseSwaggerUI (c => {
+                c.SwaggerEndpoint ("/swagger/v1/swagger.json", "My API V1");
+                c.RoutePrefix = string.Empty;
+            });
 
             app.UseEndpoints (endpoints => {
                 endpoints.MapControllers ();
