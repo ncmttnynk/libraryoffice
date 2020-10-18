@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eSrkccxMwOdcA/DfPQCQIPfpn15qdtzycnqFv5FCfbZ6pkpwDDkijYFjfVIN32WSZ96u5nMSgZHc8X1Qc67xaw==",
+  "dgSpecHash": "Z3fjF3hr8BmiXrofhdpFvSxTa1brmwJSPHJa38V3lyMptQKqrut3DWfM2RTlXNTimLZ3TyRdWL33TtI6SdCtcw==",
   "success": true,
   "projectFilePath": "D:\\Social\\LibraryOffice\\LibraryOffice.API\\LibraryOffice.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\N_YANIK2\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.2\\microsoft.entityframeworkcore.3.1.2.nupkg.sha512",
     "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.2\\microsoft.entityframeworkcore.abstractions.3.1.2.nupkg.sha512",
     "C:\\Users\\N_YANIK2\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.2\\microsoft.entityframeworkcore.analyzers.3.1.2.nupkg.sha512",
@@ -77,7 +79,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\N_YANIK2\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
