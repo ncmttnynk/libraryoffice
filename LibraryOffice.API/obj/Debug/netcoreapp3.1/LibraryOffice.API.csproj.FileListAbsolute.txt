@@ -50,3 +50,4 @@ D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.As
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 D:\Social\LibraryOffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
