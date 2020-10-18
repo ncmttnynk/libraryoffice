@@ -1,0 +1,12 @@
+D:\Social\LibraryOffice\LibraryOffice.Repository\bin\Debug\netcoreapp3.1\LibraryOffice.Repository.deps.json
+D:\Social\LibraryOffice\LibraryOffice.Repository\bin\Debug\netcoreapp3.1\LibraryOffice.Repository.dll
+D:\Social\LibraryOffice\LibraryOffice.Repository\bin\Debug\netcoreapp3.1\LibraryOffice.Repository.pdb
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.csprojAssemblyReference.cache
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.AssemblyInfoInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.AssemblyInfo.cs
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.csproj.CoreCompileInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.dll
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.pdb
+D:\Social\LibraryOffice\LibraryOffice.Repository\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
+D:\Social\LibraryOffice\LibraryOffice.Repository\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
+D:\Social\LibraryOffice\LibraryOffice.Repository\obj\Debug\netcoreapp3.1\LibraryOffice.Repository.csproj.CopyComplete

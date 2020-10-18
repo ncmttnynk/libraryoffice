@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+<ItemGroup>
+    <ProjectReference Include="..\LibraryOffice.Service\LibraryOffice.Service.csproj" />
+    <ProjectReference Include="..\LibraryOffice.Repository\LibraryOffice.Repository.csproj" />
+    <ProjectReference Include="..\LibraryOffice.Domain\LibraryOffice.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.1.2" />
+  </ItemGroup>
+
+</Project>

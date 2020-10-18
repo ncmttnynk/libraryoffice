@@ -1,0 +1,12 @@
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.csprojAssemblyReference.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.AssemblyInfoInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.AssemblyInfo.cs
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.csproj.CoreCompileInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.deps.json
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.runtimeconfig.json
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.runtimeconfig.dev.json
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.genruntimeconfig.cache

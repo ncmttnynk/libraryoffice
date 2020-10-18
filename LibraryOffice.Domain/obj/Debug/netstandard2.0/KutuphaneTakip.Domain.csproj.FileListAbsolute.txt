@@ -1,0 +1,9 @@
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netstandard2.0\LibraryOffice.Domain.deps.json
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netstandard2.0\LibraryOffice.Domain.dll
+D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netstandard2.0\LibraryOffice.Domain.pdb
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.csprojAssemblyReference.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.AssemblyInfoInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.AssemblyInfo.cs
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.csproj.CoreCompileInputs.cache
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.dll
+D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netstandard2.0\LibraryOffice.Domain.pdb
