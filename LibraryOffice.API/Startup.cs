@@ -1,4 +1,6 @@
 using GenericRestService.ControllerFactory;
+using Hangfire;
+using Hangfire.PostgreSql;
 using LibraryOffice.API.ControllerFactory;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -30,6 +32,8 @@ namespace LibraryOffice.API {
             });
 
             services.AddSwaggerGen ();
+            services.AddHangfire (config =>
+                config.UsePostgreSqlStorage (cnnStr));
 
             services.RegisterLibraryOfficeRepos ();
             services.RegisterLibraryOfficeServices ();
@@ -54,6 +58,8 @@ namespace LibraryOffice.API {
                 c.SwaggerEndpoint ("/swagger/v1/swagger.json", "My API V1");
                 c.RoutePrefix = string.Empty;
             });
+            app.UseHangfireServer ();
+            app.UseHangfireDashboard ();
 
             app.UseEndpoints (endpoints => {
                 endpoints.MapControllers ();
