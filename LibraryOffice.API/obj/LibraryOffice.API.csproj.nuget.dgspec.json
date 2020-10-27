@@ -54,6 +54,10 @@
               "target": "Package",
               "version": "[10.1.1, )"
             },
+            "Hangfire.PostgreSql": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
               "version": "[3.1.2, )"
@@ -61,6 +65,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.5.0, )"
+            },
+            "hangfire": {
+              "target": "Package",
+              "version": "[1.7.17, )"
             }
           },
           "imports": [
