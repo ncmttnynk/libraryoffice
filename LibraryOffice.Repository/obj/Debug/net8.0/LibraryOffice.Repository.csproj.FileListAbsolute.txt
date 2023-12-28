@@ -1,0 +1,16 @@
+C:\Git\libraryoffice\LibraryOffice.Repository\bin\Debug\net8.0\LibraryOffice.Repository.deps.json
+C:\Git\libraryoffice\LibraryOffice.Repository\bin\Debug\net8.0\LibraryOffice.Repository.dll
+C:\Git\libraryoffice\LibraryOffice.Repository\bin\Debug\net8.0\LibraryOffice.Repository.pdb
+C:\Git\libraryoffice\LibraryOffice.Repository\bin\Debug\net8.0\LibraryOffice.Domain.dll
+C:\Git\libraryoffice\LibraryOffice.Repository\bin\Debug\net8.0\LibraryOffice.Domain.pdb
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.csproj.AssemblyReference.cache
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.AssemblyInfoInputs.cache
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.AssemblyInfo.cs
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.csproj.CoreCompileInputs.cache
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.sourcelink.json
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.csproj.CopyComplete
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.dll
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\refint\LibraryOffice.Repository.dll
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\LibraryOffice.Repository.pdb
+C:\Git\libraryoffice\LibraryOffice.Repository\obj\Debug\net8.0\ref\LibraryOffice.Repository.dll

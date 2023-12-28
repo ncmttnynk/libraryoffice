@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = LibraryOffice.Repository
+build_property.ProjectDir = C:\Git\libraryoffice\LibraryOffice.Repository\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

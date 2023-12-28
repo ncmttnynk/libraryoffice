@@ -10,3 +10,17 @@ D:\Social\LibraryOffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffi
 D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
 D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
 D:\Social\LibraryOffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.genruntimeconfig.cache
+C:\Git\libraryoffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.deps.json
+C:\Git\libraryoffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.runtimeconfig.json
+C:\Git\libraryoffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.runtimeconfig.dev.json
+C:\Git\libraryoffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
+C:\Git\libraryoffice\LibraryOffice.Domain\bin\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.csproj.AssemblyReference.cache
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.AssemblyInfoInputs.cache
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.AssemblyInfo.cs
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.csproj.CoreCompileInputs.cache
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.sourcelink.json
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.dll
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.pdb
+C:\Git\libraryoffice\LibraryOffice.Domain\obj\Debug\netcoreapp3.1\LibraryOffice.Domain.genruntimeconfig.cache

@@ -73,3 +73,13 @@ D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\runtimes\win-x
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
 D:\Social\LibraryOffice\LibraryOffice.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.csproj.AssemblyReference.cache
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.AssemblyInfoInputs.cache
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.AssemblyInfo.cs
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.csproj.CoreCompileInputs.cache
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.sourcelink.json
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.dll
+C:\Git\libraryoffice\LibraryOffice.API\obj\Debug\netcoreapp3.1\LibraryOffice.API.pdb

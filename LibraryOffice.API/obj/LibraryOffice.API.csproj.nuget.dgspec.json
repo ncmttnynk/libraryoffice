@@ -1,42 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Social\\LibraryOffice\\LibraryOffice.API\\LibraryOffice.API.csproj": {}
+    "C:\\Git\\libraryoffice\\LibraryOffice.API\\LibraryOffice.API.csproj": {}
   },
   "projects": {
-    "D:\\Social\\LibraryOffice\\LibraryOffice.API\\LibraryOffice.API.csproj": {
+    "C:\\Git\\libraryoffice\\LibraryOffice.API\\LibraryOffice.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Social\\LibraryOffice\\LibraryOffice.API\\LibraryOffice.API.csproj",
+        "projectUniqueName": "C:\\Git\\libraryoffice\\LibraryOffice.API\\LibraryOffice.API.csproj",
         "projectName": "LibraryOffice.API",
-        "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.API\\LibraryOffice.API.csproj",
-        "packagesPath": "C:\\Users\\N_YANIK2\\.nuget\\packages\\",
-        "outputPath": "D:\\Social\\LibraryOffice\\LibraryOffice.API\\obj\\",
+        "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.API\\LibraryOffice.API.csproj",
+        "packagesPath": "C:\\Users\\NEXTNORMAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\libraryoffice\\LibraryOffice.API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\N_YANIK2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEXTNORMAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
               },
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj"
               },
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj"
               }
             }
           }
@@ -48,27 +47,20 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[10.1.1, )"
+              "version": "[12.0.1, )"
             },
-            "Hangfire.PostgreSql": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[1.7.1, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
-              "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[8.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[5.5.0, )"
-            },
-            "hangfire": {
-              "target": "Package",
-              "version": "[1.7.17, )"
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -77,7 +69,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -89,34 +82,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
+    "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj",
         "projectName": "LibraryOffice.Domain",
-        "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj",
-        "packagesPath": "C:\\Users\\N_YANIK2\\.nuget\\packages\\",
-        "outputPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\obj\\",
+        "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj",
+        "packagesPath": "C:\\Users\\NEXTNORMAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\N_YANIK2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEXTNORMAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -127,21 +119,18 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore.Design": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[8.0.0, )"
             },
-            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Npgsql.EntityFrameworkCore.PostgreSQL.Design": {
-              "target": "Package",
-              "version": "[1.1.1, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -150,7 +139,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -159,37 +149,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
+    "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj",
+        "projectUniqueName": "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj",
         "projectName": "LibraryOffice.Repository",
-        "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj",
-        "packagesPath": "C:\\Users\\N_YANIK2\\.nuget\\packages\\",
-        "outputPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\obj\\",
+        "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj",
+        "packagesPath": "C:\\Users\\NEXTNORMAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\N_YANIK2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEXTNORMAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
               }
             }
           }
@@ -201,11 +190,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -214,7 +204,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -223,40 +214,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj": {
+    "C:\\Git\\libraryoffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj",
+        "projectUniqueName": "C:\\Git\\libraryoffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj",
         "projectName": "LibraryOffice.Service",
-        "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj",
-        "packagesPath": "C:\\Users\\N_YANIK2\\.nuget\\packages\\",
-        "outputPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Service\\obj\\",
+        "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Service\\LibraryOffice.Service.csproj",
+        "packagesPath": "C:\\Users\\NEXTNORMAL\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\libraryoffice\\LibraryOffice.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\N_YANIK2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NEXTNORMAL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Domain\\LibraryOffice.Domain.csproj"
               },
-              "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
-                "projectPath": "D:\\Social\\LibraryOffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj"
+              "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj": {
+                "projectPath": "C:\\Git\\libraryoffice\\LibraryOffice.Repository\\LibraryOffice.Repository.csproj"
               }
             }
           }
@@ -268,11 +258,12 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -281,7 +272,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -290,7 +282,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
